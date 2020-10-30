@@ -1,6 +1,6 @@
 # EFCore5WebinarDemo
 Solution from Oct 29 2020 Pluralsight webinar.
-Watch the recorded video at https://pluralsight.pxf.io/MZkWM
+Watch the [recorded video](https://pluralsight.pxf.io/MZkWM)
 
 Note that there are two branches: Before and After. Before was my starting point for the demos and After is where it ended.
 
