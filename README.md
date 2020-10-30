@@ -1,6 +1,6 @@
 # EFCore5WebinarDemo
 Solution from Oct 29 2020 Pluralsight webinar "PREPARING YOUR MOVE TO ENTITY FRAMEWORK CORE 5: WHAT’S NEW AND WHAT’S IMPROVED".
-Watch the [recorded video](https://pluralsight.pxf.io/9NPoQ)
+Watch the [recorded video](https://pluralsight.pxf.io/9NPoQ){target="_blank"}
 
 Note that there are two branches: Before and After. Before was my starting point for the demos and After is where it ended.
 
